@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMours&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&layout=compact&theme=darcula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Tecnologias que Estudo
