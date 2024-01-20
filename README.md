@@ -1,7 +1,7 @@
 # Oi, sou João Vitor Rezende Moura!
 
 #### Sobre Mim
-- Estudante do 3º período de Ciência da Computação da Universidade Tiradentes (Unit).
+- Estudante do 5º período de Ciência da Computação da Universidade Tiradentes (Unit).
 - Estou sempre em busca de novos conhecimentos, e de aprimorar os que já possuo.
 - Estudo tecnologias de Front-End, mas mantenho o foco primário no Back-End 
 
@@ -10,17 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&layout=compact&theme=darcula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Tecnologias que Estudo
-<div display="inline-block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50px" />
-</div>               
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://skillicons.dev)
 
 
 #### Contato
