@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&layout=compact&theme=darcula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,py,java,sqlite,neovim,latex&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,py,java,sqlite,neovim,latex&perline=4)](https://skillicons.dev)
 
 
 #### Contato
