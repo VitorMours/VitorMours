@@ -4,12 +4,6 @@
 - Estudante do 5º período de Ciência da Computação da Universidade Tiradentes (Unit).
 - Estou sempre em busca de novos conhecimentos, e de aprimorar os que já possuo.
 - Estudo tecnologias de Front-End, mas mantenho o foco primário no Back-End 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMours&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&layout=compact&theme=darcula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,java,sqlite,latex)](https://skillicons.dev)
 
 
