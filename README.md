@@ -6,7 +6,7 @@
 - Estudo tecnologias de Front-End, mas mantenho o foco primário no Back-End 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,java,sqlite,latex)](https://skillicons.dev)
 
-
+![VitorMours GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=radical)
 #### Contato
 
 <a href="https://www.linkedin.com/in/joão-vitor-rezende-moura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
