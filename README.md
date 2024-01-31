@@ -1,12 +1,15 @@
-# Oi, sou João Vitor Rezende Moura!
+# Olá, sou Vitor Moura!
 
-#### Sobre Mim
-- Estudante do 5º período de Ciência da Computação da Universidade Tiradentes (Unit).
-- Estou sempre em busca de novos conhecimentos, e de aprimorar os que já possuo.
-- Estudo tecnologias de Front-End, mas mantenho o foco primário no Back-End 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,java,sqlite,latex)](https://skillicons.dev)
+Estudante de **Ciência da Computação** do **5º período** da **Universidade Tiradentes - UNIT**
+Apaixonado por tecnologia, tenho estudado principalmente tecnologias voltadas para o desenvolvimento
+web, tendo como foco principalmente:
+**HTML**, **CSS**, **JS**, **Flask**, **Java**, **Python**
 
-![VitorMours GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,java,sqlite)](https://skillicons.dev)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormours&hide_progress=false)
 #### Contato
 
 <a href="https://www.linkedin.com/in/joão-vitor-rezende-moura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
