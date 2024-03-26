@@ -5,7 +5,7 @@ Apaixonado por tecnologia, tenho estudado principalmente tecnologias voltadas pa
 web, tendo como foco principalmente:
 **HTML**, **CSS**, **JS**, **Flask**, **Java**, **Python**
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,flask,python,java,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,flask,tailwindcss,sqlite)](https://skillicons.dev)
 
 <br/>
 
