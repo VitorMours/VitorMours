@@ -6,24 +6,14 @@
 
 ---
 
-**Linguagens**
+**Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,dart)](https://skillicons.dev)
-
-**Desenvolvimento Web**
-
-[![My Skills](https://skillicons.dev/icons?i=react,django,flask,tailwindcss)](https://skillicons.dev)
-
-**Desenvolvimento Mobile**
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,python,flask,django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode,postman)](https://skillicons.dev)
-
-**Banco de Dados**
-
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ---
