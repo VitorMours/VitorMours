@@ -1,13 +1,32 @@
 # Olá, sou Vitor Moura!
 
-Estudante de **Ciência da Computação** do **6º período** da **Universidade Tiradentes - UNIT** e estagio na **Secretaria de Educação do Estado de Sergipe - SEDUC/SE**
-.Apaixonado por tecnologia, tenho estudado principalmente tecnologias voltadas para o desenvolvimento
-web, tendo como foco principalmente:
-**HTML**, **CSS**, **JS**, **Flask**, **Java**, **Python**
+- Estudante de **Ciência da Computação** do **6º período** da **Universidade Tiradentes - UNIT**.
+- Estagiário na **Secretaria de Educação do Estado de Sergipe - SEDUC/SE**.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,flask,tailwindcss,sqlite)](https://skillicons.dev)
 
-<br/>
+---
+
+**Linguagens**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,dart)](https://skillicons.dev)
+
+**Desenvolvimento Web**
+
+[![My Skills](https://skillicons.dev/icons?i=react,django,flask,tailwindcss)](https://skillicons.dev)
+
+**Desenvolvimento Mobile**
+
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+**Ferramentas**
+
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,postman)](https://skillicons.dev)
+
+**Banco de Dados**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+---
 
 ![VitorMours GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=tokyonight)
 
