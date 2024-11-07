@@ -20,9 +20,7 @@
 
 ![VitorMours GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=tokyonight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormours&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMours&langs_count=8&theme=tokyonight)
 #### Contato
 
 <a href="https://www.linkedin.com/in/joão-vitor-rezende-moura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
