@@ -8,13 +8,13 @@
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,python,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,express,react,python,flask,django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongo)](https://skillicons.dev)
 
 ---
 
