@@ -10,7 +10,7 @@
 ---
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,python,flask,fastapi,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,express,react,python,flask,fastapi,java,spring)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ### Tools
