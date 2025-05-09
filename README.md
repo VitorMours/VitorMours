@@ -1,7 +1,7 @@
 # Olá, sou Vitor Moura!
 
-- Estudante de **Ciência da Computação** do **6º período** da **Universidade Tiradentes - UNIT**.
-- Estagiário na **Secretaria de Educação do Estado de Sergipe - SEDUC/SE**.
+- Estudante de **Ciência da Computação** do **7º período** da **Universidade Tiradentes - UNIT**.
+- QA no **Banco do Estado de Sergipe - BANESE**.
 
 ### Contato
 
