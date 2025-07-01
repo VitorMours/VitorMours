@@ -1,6 +1,6 @@
 # Olá, sou Vitor Moura!
 
-- Estudante de **Ciência da Computação** do **7º período** da **Universidade Tiradentes - UNIT**.
+- Estudante de **Ciência da Computação** do **8º período** da **Universidade Tiradentes - UNIT**.
 - QA no **Banco do Estado de Sergipe - BANESE**.
 
 ### Contato
