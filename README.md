@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
 
 #### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,express,react,flask,fastapi,spring,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,express,react,flask,spring,flutter)](https://skillicons.dev)
 
 #### Databases and Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo,postman,aws,gcp)](https://skillicons.dev)
