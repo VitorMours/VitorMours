@@ -10,13 +10,14 @@
 ---
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,express,react,python,flask,fastapi,java,spring)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo)](https://skillicons.dev)
+#### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,express,react,flask,fastapi,spring,flutter)](https://skillicons.dev)
 
+#### Databases and Tools
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo,postman,aws,gcp)](https://skillicons.dev)
 
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
