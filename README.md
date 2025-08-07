@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=express,bootstrap,react,flask,spring,flutter)](https://skillicons.dev)
 
 #### Databases and Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sequelize,prisma,mongo,mongoose,postman,aws,gcp,supabase,tailwindcss,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sequelize,prisma,mongo,postman,aws,gcp,supabase,tailwindcss,)](https://skillicons.dev)
 
 
 
