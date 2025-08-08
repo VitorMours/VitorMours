@@ -14,8 +14,11 @@
 #### Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=express,bootstrap,react,flask,spring,flutter)](https://skillicons.dev)
 
-#### Databases and Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sequelize,prisma,mongo,postman,aws,gcp,supabase,tailwindcss,)](https://skillicons.dev)
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,sequelize,prisma,mongo,postman,tailwindcss)](https://skillicons.dev)
+
+#### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,supabase)](https://skillicons.dev)
 
 
 
