@@ -4,8 +4,8 @@
 - QA no **Banco do Estado de Sergipe - BANESE**.
 - Desenvolvo aplicações **Full-Stack**, focando principalmente no uso de **React** para o desenvolvimento web e **Flutter** no mobile.
 
-[![VitorMours github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitormours&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![VitorMours's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormours&layout=compact&theme=ambient_gradient)
 
 ### Tech Stack
 #### Programming Languages
