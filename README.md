@@ -2,7 +2,7 @@
 
 - Estudante de **Ciência da Computação** do **8º período** da **Universidade Tiradentes - UNIT**.
 - QA no **Banco do Estado de Sergipe - BANESE**.
-- Desenvolvo aplicações **Full-Stack**, focando principalmente no uso de **React** para o desenvolvimento web e **Flutter** no mobile.
+- Desenvolvo aplicações **Full-Stack**, focando principalmente no uso de **React** para o desenvolvimento web e **Flutter** no mobile, tendo o **Spring Boot** e o **Django** como frameworks back-end
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormours&show_icons=true&theme=vue-dark&rank_icon=github)
