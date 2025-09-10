@@ -10,7 +10,7 @@
 <p  align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,express,react,vitest,daisyui,&theme=dark"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,express,react,vitest,daisyui&theme=dark"
     />
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,sqlalchemy,pytest&theme=dark"
