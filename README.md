@@ -18,8 +18,8 @@
         <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
           <a href="https://go-skill-icons.vercel.app/">
             <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=javascript,python,java,bash,dart&theme=dark"
-              alt="JavaScript, Python, Java, Bash, Dart"
+              src="https://go-skill-icons.vercel.app/api/icons?i=javascript,python,java,rust,c&theme=dark"
+              alt="JavaScript, Python, Java, Rust, C"
               style="max-width: 100%; height: auto;"
             />
           </a>
