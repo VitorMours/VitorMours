@@ -30,7 +30,7 @@
         <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
           <a href="https://go-skill-icons.vercel.app/">
             <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,tailwindcss,daisyui,flutter&theme=dark"
+              src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,materialui,tailwindcss,flutter&theme=dark"
               alt="React, Bootstrap, TailwindCSS, DaisyUI, Flutter"
               style="max-width: 100%; height: auto;"
             />
