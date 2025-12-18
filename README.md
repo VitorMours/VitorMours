@@ -42,7 +42,7 @@
         <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
           <a href="https://go-skill-icons.vercel.app/">
             <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=express,django,spring,fastapi,flask&theme=dark"
+              src="https://go-skill-icons.vercel.app/api/icons?i=nest,django,spring,fastapi,flask&theme=dark"
               alt="Express, Django, Spring, FastAPI, Flask"
               style="max-width: 100%; height: auto;"
             />
