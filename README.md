@@ -66,8 +66,8 @@
         <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
           <a href="https://go-skill-icons.vercel.app/">
             <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=postman,gcp,git,docker,supabase&theme=dark"
-              alt="Postman, GCP, Git, Docker, Supabase"
+              src="https://go-skill-icons.vercel.app/api/icons?i=postman,gcp,firebase,docker,supabase&theme=dark"
+              alt="Postman, GCP, Firebase, Docker, Supabase"
               style="max-width: 100%; height: auto;"
             />
           </a>
