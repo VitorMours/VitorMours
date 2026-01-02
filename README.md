@@ -1,81 +1,16 @@
-# Olá, sou Vitor Moura!
+# Hi, Im Vitor Moura!
 
-- Estudante de **Ciência da Computação** do **8º período** da **Universidade Tiradentes - UNIT**.
-- **QA** no **Banco do Estado de Sergipe - BANESE**.
-- Pesquisador no Campo de **IA** e **Desenvolvimento de Software**
-- Desenvolvedor **Full-Stack**, focando principalmente no uso de **React** para o desenvolvimento web, **Flutter** no mobile, e uso **Spring Boot**, **FastApi**, **Flask** ou **Django** como frameworks back-end
+- I'm graduating in Computer Science by the ![Tiradentes University](https://www.unit.br/) and trying to pursue a Master's Degree.
+- I am a mobile flutter developer in the ![Sergipe State Bank - Banese](https://www.banese.com.br/) working in the evolution team with microsservices, APIs Flutter & I'm a volunteer researcher in the mehumans field: ![Counter Graphics](http://counter.graphics/)
 
-<div align="center">
-  <table style="width:100%; border-collapse: collapse; border-width: 1px; border-color: black; margin-bottom: 20px;">
-    <thead>
-      <tr>
-        <th colspan="2" style="background-color: #30363d; color: white; padding: 10px; font-size: 1.2em; border: 1px solid #21262d;">Tech Stack 🚀</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 10px; border: 1px solid #21262d; background-color: #21262d;">Programming Languages</td>
-        <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
-          <a href="https://go-skill-icons.vercel.app/">
-            <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=javascript,python,java,rust,c&theme=dark"
-              alt="JavaScript, Python, Java, Rust, C"
-              style="max-width: 100%; height: auto;"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 10px; border: 1px solid #21262d; background-color: #21262d;">Front-End</td>
-        <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
-          <a href="https://go-skill-icons.vercel.app/">
-            <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,materialui,tailwindcss,flutter&theme=dark"
-              alt="React, Bootstrap, TailwindCSS, DaisyUI, Flutter"
-              style="max-width: 100%; height: auto;"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 10px; border: 1px solid #21262d; background-color: #21262d;">Back-End</td>
-        <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
-          <a href="https://go-skill-icons.vercel.app/">
-            <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=nest,django,spring,fastapi,flask&theme=dark"
-              alt="Express, Django, Spring, FastAPI, Flask"
-              style="max-width: 100%; height: auto;"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 10px; border: 1px solid #21262d; background-color: #21262d;">Databases</td>
-        <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
-          <a href="https://go-skill-icons.vercel.app/">
-            <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgresql,mysql,mongodb,redis&theme=dark"
-              alt="SQLite, PostgreSQL, MySQL, MongoDB, Redis"
-              style="max-width: 100%; height: auto;"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 10px; border: 1px solid #21262d; background-color: #21262d;">DevOps & Tools</td>
-        <td style="width: 70%; padding: 10px; border: 1px solid #21262d; text-align: center;">
-          <a href="https://go-skill-icons.vercel.app/">
-            <img
-              src="https://go-skill-icons.vercel.app/api/icons?i=postman,gcp,firebase,docker,supabase&theme=dark"
-              alt="Postman, GCP, Firebase, Docker, Supabase"
-              style="max-width: 100%; height: auto;"
-            />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+- On the free time, i work on side projects using technologies like: 
+- ![Flask](https://flask.palletsprojects.com/en/stable/), ![FastAPI](https://fastapi.tiangolo.com/), ![Django](https://www.djangoproject.com/), ![Spring](https://spring.io/), ![React](https://react.dev/) and ![Flutter](https://flutter.dev/) for webdev and mobile
+- ![C](https://cppreference.com/), ![Rust](https://rust-lang.org/pt-BR/) for Low level development
+- ![Lua](https://www.lua.org/download.html) and ![Python](https://www.python.org/) for gamedev
+
+
+#### Studying now: Rust and Data Science with Python
+
 
 ### Contato
 
