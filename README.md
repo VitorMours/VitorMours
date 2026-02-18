@@ -10,7 +10,7 @@
 - ![Lua](https://www.lua.org/download.html) and ![Python](https://www.python.org/) for gamedev
 
 
-# Poll Stack
+# My Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,java,spring,dart,flutter,html,css,javascript,react,vue,rust,gcp,docker,git,githubactions,sqlite,mysql,postgresql,mongo&perline=11" />
