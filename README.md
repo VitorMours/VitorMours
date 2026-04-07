@@ -12,14 +12,14 @@
 
 # My Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,java,spring,dart,flutter,html,css,javascript,react,vue,c,lua,rust,gcp,docker,git,githubactions,sqlite,mysql,postgresql,mongo&perline=12" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,fastapi,django,pytorch,scikitlearn,pandas,seaborn,numpy,tensorflow,java,spring,dart,flutter,html,css,javascript,react,vue,c,lua,rust,gcp,docker,git,githubactions,sqlite,mysql,postgresql,mongo&perline=15" />
   </a>
 </p>
 
 
 
-#### Studying now: Rust and 
+#### Studying now: Rust and Machine Learning
 ### Contato
 
 <a href="https://www.linkedin.com/in/joão-vitor-rezende-moura"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
