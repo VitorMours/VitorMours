@@ -3,6 +3,7 @@
 - I'm a Computer Science graduate by the Tiradentes University - UNIT and pursuing a Master's Degree.
 - I am a mobile flutter developer in the Sergipe State Bank - Banese working in the evolution team with microsservices, Flutter Mobile Apps & I'm a volunteer researcher in the mehumans field in Counter Graphics group, and in the computer vision group
 
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,6 +17,8 @@
     <img src="https://skillicons.dev/icons?i=supabase,postgresql,mysql,mongo,gcp,aws,docker" />
   </a>
 </p>
+
+<hr>
 
 #### Studying now: Rust, Go and Machine Learning
 
